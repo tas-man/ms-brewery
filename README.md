@@ -1,1 +1,3 @@
-# ms-brewery
+# MS Brewery
+
+Spring Boot Microservice
